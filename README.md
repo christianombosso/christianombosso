@@ -1,10 +1,10 @@
 ## Hello! I'm Christiano, welcome to my GitHub! 👋
 
-I am an enthusiastic Computer Science student in my first year at Universidade Estadual do Paraná (UNESPAR). I am deeply driven by a fascination with technology, which pushes me to seek out fresh perspectives and expand my skill set.
+I am an enthusiastic Computer Science student in my second year at Universidade Estadual do Paraná (UNESPAR). I am deeply driven by a fascination with technology, which pushes me to seek out fresh perspectives and expand my skill set.
 
 ## 🙋🏻‍♂️ Get to know me better!
 
-- 🎓 **Current Education:** 1st year Computer Science student at UNESPAR
+- 🎓 **Current Education:** 2nd year Computer Science student at UNESPAR
 - 🤖 **Passionate About:** Technology, programming, gaming, books, music, and movies
 - 📚 **Currently Learning:** Improving my skills in C and doing basic research on other languages, such as Python, HTML, and Java.
 
@@ -14,6 +14,8 @@ I am an enthusiastic Computer Science student in my first year at Universidade E
 
 <p>
   <img src="https://img.shields.io/badge/-C-darkblue?style=flat&logo=c&logoColor=white" alt="C" />
+  <p>
+  <img src="https://img.shields.io/badge/-C-darkblue?style=flat&logo=c&logoColor=white" alt="Java" />
 
 ## ⚡ My Experience So Far:
 
