@@ -14,8 +14,6 @@ I am an enthusiastic Computer Science student in my second year at Universidade 
 
 <p>
   <img src="https://img.shields.io/badge/-C-darkblue?style=flat&logo=c&logoColor=white" alt="C" />
-  <p>
-  <img src="https://img.shields.io/badge/-C-darkblue?style=flat&logo=c&logoColor=white" alt="Java" />
 
 ## ⚡ My Experience So Far:
 
