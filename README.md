@@ -26,9 +26,14 @@ I am an enthusiastic Computer Science student in my second year at Universidade 
 
  ## 📊 GitHub Stats
 
- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical" alt="Christiano's GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=christianombosso&theme=radical&hide_border=true" alt="Christiano's GitHub Streak" />
-</p>
+ <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://github.com/christianombosso/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" height="150" />
+  </a>
+  
+  <a href="https://github.com/christianombosso/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&layout=compact&theme=radical&langs_count=8&card_width=320&hide_border=true&cache_seconds=1800" alt="Most Used Languages" height="150" />
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
