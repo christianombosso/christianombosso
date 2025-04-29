@@ -1,35 +1,28 @@
-## Hello! I'm Christiano, welcome to my GitHub! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99FFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Christiano!;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+
+## About Me:
 
 I am an enthusiastic Computer Science student in my second year at Universidade Estadual do Paraná (UNESPAR). I am deeply driven by a fascination with technology, which pushes me to seek out fresh perspectives and expand my skill set.
 
-## 🙋🏻‍♂️ Get to know me better!
+<div align="left">
 
-- 🎓 **Current Education:** 2nd year Computer Science student at UNESPAR
-- 🤖 **Passionate About:** Technology, programming, gaming, books, music, and movies
-- 📚 **Currently Learning:** Improving my skills in C and doing basic research on other languages, such as Python, HTML, and Java.
+<img align="right" alt="" height="190px" src="https://www.thisiscolossal.com/wp-content/uploads/2023/09/miyazaki-heron-2.gif">
 
-## 🛠️ Technologies & Skills:
+<h3 align="left">Reach out to me!</h3>
 
-### Languages & Tools
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/christianombosso/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianombosso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiano-miquel%C3%A3o-bosso-11b0b3303/)
+
+<h3 align="left">Main Skills:</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/-C-darkblue?style=flat&logo=c&logoColor=white" alt="C" />
-
-## ⚡ My Experience So Far:
-
-- 🔭 **I’m currently working on:** Small projects in C, related to the algorithms course in my college program.
-
-## 📫 Reach out to me!
-
-</div>
-
-<br>
-
-<div align="center"> 
-    <a href="https://instagram.com/christianombosso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href = "mailto:christianombosso@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/christiano-miquel%C3%A3o-bosso-11b0b3303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
- </div>
+  <img src="https://img.shields.io/badge/-C-darkblue?style=flat" alt="C" />
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat" alt="Java" />
 
  ## 📊 GitHub Stats
 
@@ -37,3 +30,5 @@ I am an enthusiastic Computer Science student in my second year at Universidade 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical" alt="Christiano's GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=christianombosso&theme=radical&hide_border=true" alt="Christiano's GitHub Streak" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
