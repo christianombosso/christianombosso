@@ -27,7 +27,7 @@ I am an enthusiastic Computer Science student in my second year at Universidade 
  ## 📊 GitHub Stats
 
 <div align="center">  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=177cc8&icon_color=99FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Christiano M. Bosso GitHub Stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=177cc8&icon_color=177cc8&text_color=c9d1d9&bg_color=0d1117" alt="Christiano M. Bosso GitHub Stats" /> 
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&hide_border=true&title_color=177cc8&text_color=177cc8&bg_color=0d1117" />
 </div>
 
