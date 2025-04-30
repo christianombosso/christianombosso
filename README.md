@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2939b3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99FFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Christiano!;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=177cc8&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Christiano!;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -27,8 +27,8 @@ I am an enthusiastic Computer Science student in my second year at Universidade 
  ## 📊 GitHub Stats
 
 <div align="center">  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=99FFFF&icon_color=99FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Christiano M. Bosso GitHub Stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&hide_border=true&title_color=99FFFF&text_color=33FFCC&bg_color=0d1117" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=177cc8&icon_color=99FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Christiano M. Bosso GitHub Stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&hide_border=true&title_color=177cc8&text_color=177cc8&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2939b3&height=120&section=footer"/>
