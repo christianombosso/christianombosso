@@ -26,14 +26,9 @@ I am an enthusiastic Computer Science student in my second year at Universidade 
 
  ## 📊 GitHub Stats
 
- <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://github.com/christianombosso/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" height="150" />
-  </a>
-  
-  <a href="https://github.com/christianombosso/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&layout=compact&theme=radical&langs_count=8&card_width=320&hide_border=true&cache_seconds=1800" alt="Most Used Languages" height="150" />
-  </a>
+<div align="center">  
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=99FFFF&icon_color=99FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Christiano M. Bosso GitHub Stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&hide_border=true&title_color=99FFFF&text_color=33FFCC&bg_color=0d1117" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
