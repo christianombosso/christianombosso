@@ -23,7 +23,7 @@ I am a Computer Science student at **Universidade Estadual do Paraná (UNESPAR)*
 I approach every project with attention to detail and a focus on writing clear, modular, and maintainable code. I am constantly looking to deepen my practical skills and connect with professionals and mentors to contribute to meaningful technical challenges.
 
 - 🎓 **B.Sc. Computer Science** — UNESPAR, Campus Apucarana *(2024 – present)*
-- 🔬 **Areas of Interest:** Algorithms, Distributed & Concurrent Systems, Compilers, Artificial Intelligence, Databases
+- 🔬 **Areas of Interest:** Software Development, Software Engineering, Artificial Intelligence, Automation & Technology
 - 🌐 **Languages:** Portuguese *(Native)*, English *(Advanced / Technical)*
 
 ---
