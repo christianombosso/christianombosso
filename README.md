@@ -55,8 +55,7 @@ I approach every project with attention to detail and a focus on writing clear, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=177cc8&icon_color=177cc8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&layout=compact&hide_border=true&title_color=177cc8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
 </div>
 
 <br/>
