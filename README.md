@@ -16,49 +16,50 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Computer Science student at Universidade Estadual do Paraná (UNESPAR), with a strong interest in software development, automation, and technology. I have knowledge of Java, Python, HTML, CSS, and JavaScript, as well as academic experience in programming logic, data structures, and the fundamentals of machine learning. I am seeking opportunities to expand my knowledge, develop practical skills, and build a solid career in the field of computing. I am also looking to connect with professionals and mentors who can support my growth and provide opportunities to contribute to meaningful and challenging projects.
+I am a Computer Science student at **Universidade Estadual do Paraná (UNESPAR)**, focused on software development, systems programming, and automation. I have hands-on experience with **Python, C, C++, Java, and JavaScript**, applying them across academic and personal projects involving data structures, compiler construction, distributed systems, and machine learning fundamentals.
 
-I approach every project with attention to detail and a focus on writing code that is not only functional, but clear and well-structured. Currently deepening my skills in software development, automation, and AI-related topics through both coursework and personal projects.
+I approach every project with attention to detail and a focus on writing clear, modular, and maintainable code. I am constantly looking to deepen my practical skills and connect with professionals and mentors to contribute to meaningful technical challenges.
 
-- 🎓 **B.Sc. Computer Science** — UNESPAR, Campus Apucarana (2024 – present)
-- 🔬 Areas of interest: Algorithms, Concurrent Systems, Artificial Intelligence, Databases
-- 🌐 Languages: Portuguese (native), English (technical reading & writing)
+- 🎓 **B.Sc. Computer Science** — UNESPAR, Campus Apucarana *(2024 – present)*
+- 🔬 **Areas of Interest:** Algorithms, Distributed & Concurrent Systems, Compilers, Artificial Intelligence, Databases
+- 🌐 **Languages:** Portuguese *(Native)*, English *(Advanced / Technical)*
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools, Web & Platforms**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-**Currently Studying**
+---
 
-![ESP32](https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=christianombosso&show_icons=true&count_private=true&hide_border=true&title_color=177cc8&icon_color=177cc8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&layout=compact&hide_border=true&title_color=177cc8&text_color=177cc8&bg_color=0d1117" alt="Top Languages"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianombosso&layout=compact&hide_border=true&title_color=177cc8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christianombosso&hide_border=true&stroke=177cc8&ring=2939b3&fire=177cc8&currStreakLabel=177cc8&background=0d1117&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
