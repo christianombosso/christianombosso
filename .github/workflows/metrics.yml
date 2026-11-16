@@ -1,0 +1,34 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Stats & Languages SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, repositories
+          config_timezone: America/Sao_Paulo
+          config_order: base.header, base.repositories, languages
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_lines: yes
+          use_mocked_data: no
+          verify: yes
+          base_indepth: yes
+          base_skip: stars, following, followers, sponsorships
+          template: classic
+          query: '{"indepth": true}'
